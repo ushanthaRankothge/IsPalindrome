@@ -8,7 +8,7 @@ package palidrome;
 
 /**
  *
- * @author ranka
+ * @author ushantha
  */
 import java.util.*;
 
