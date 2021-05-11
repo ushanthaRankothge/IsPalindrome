@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ranka
+ * @author ushantha
  */
 public class Main {
     public static void main (String[] args)
